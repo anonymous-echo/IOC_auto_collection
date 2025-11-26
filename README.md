@@ -12,8 +12,9 @@ TI Auto Collection is an automated tool for collecting open-source threat intell
 
 | 数据源 | 最后更新时间 | 状态 |
 |--------|------------|------|
-| https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz | 2025-11-25 07:18:44 | ✅ 成功 |
-| https://threatfox.abuse.ch/export/json/recent/ | 2025-11-25 07:18:46 | ✅ 成功 |
+| https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz | 2025-11-26 07:18:12 | ✅ 成功 |
+| https://threatfox.abuse.ch/export/json/recent/ | 2025-11-26 07:18:14 | ✅ 成功 |
+
 
 
 
@@ -261,23 +262,23 @@ TI Auto Collection is an automated tool for collecting open-source threat intell
 
 | 统计项 | 值 |
 |--------|----|
-| 总记录数 | 193559 |
+| 总记录数 | 194343 |
 
 ### IOC类型统计
 
 | 类型 | 数量 |
 |------|------|
-| domain | 76870 |
-| ip:port | 57301 |
-| sha256_hash | 30660 |
-| url | 17027 |
-| md5_hash | 6362 |
-| sha1_hash | 5338 |
+| domain | 77150 |
+| ip:port | 57475 |
+| sha256_hash | 30709 |
+| url | 17196 |
+| md5_hash | 6418 |
+| sha1_hash | 5394 |
 | sha3_384_hash | 1 |
 
 ### 数据源统计
 
 | 数据源 | 数量 |
 |--------|------|
-| https://threatfox.abuse.ch/export/json/recent/ | 182043 |
+| https://threatfox.abuse.ch/export/json/recent/ | 182827 |
 | https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz | 11516 |
